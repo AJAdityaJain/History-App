@@ -1,0 +1,11 @@
+C:\XAMPP\htdocs\C# Projects\History\bin\Release\History.exe.config
+C:\XAMPP\htdocs\C# Projects\History\bin\Release\History.exe
+C:\XAMPP\htdocs\C# Projects\History\bin\Release\History.pdb
+C:\XAMPP\htdocs\C# Projects\History\obj\Release\History.csproj.AssemblyReference.cache
+C:\XAMPP\htdocs\C# Projects\History\obj\Release\History.csproj.SuggestedBindingRedirects.cache
+C:\XAMPP\htdocs\C# Projects\History\obj\Release\History.Form1.resources
+C:\XAMPP\htdocs\C# Projects\History\obj\Release\History.Properties.Resources.resources
+C:\XAMPP\htdocs\C# Projects\History\obj\Release\History.csproj.GenerateResource.cache
+C:\XAMPP\htdocs\C# Projects\History\obj\Release\History.csproj.CoreCompileInputs.cache
+C:\XAMPP\htdocs\C# Projects\History\obj\Release\History.exe
+C:\XAMPP\htdocs\C# Projects\History\obj\Release\History.pdb
